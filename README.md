@@ -647,9 +647,9 @@ OSCAR_DASHBOARD_NAVIGATION.append({
 ```
 
 Author:
-Matyas Sina Adugna
-matyassinaadugna@gmail.com
-Software Engineer
++ Matyas Sina Adugna
++ matyassinaadugna@gmail.com
++ Software Engineer
 
 Reference:
 https://hackernoon.com/a-guide-on-building-a-django-oscar-application-with-a-dashboard-bb1533at
