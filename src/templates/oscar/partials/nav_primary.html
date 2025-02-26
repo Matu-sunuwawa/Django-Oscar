@@ -1,0 +1,11 @@
+
+{% extends "oscar/partials/nav_primary.html" %}
+{% load i18n %}
+{% block nav_items %}
+{{ block.super }}
+<li class="nav-item dropdown">
+    <a class="nav-link" href="#" role="button">
+    {% trans "Boutiques" %}
+    </a>
+</li>
+{% endblock %}
